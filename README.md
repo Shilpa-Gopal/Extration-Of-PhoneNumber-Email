@@ -42,7 +42,7 @@
 
 ## Design and Architecture
 The application is structured around the MVC pattern, emphasizing separation of concerns:
-
+```
 .
 ├── config
 │ └── settings.py # Configuration settings
@@ -53,7 +53,7 @@ The application is structured around the MVC pattern, emphasizing separation of 
 ├── templates # Views (V)
 ├── forms # Form handling
 └── static # Static assets (images, CSS)
-
+```
 
 - **Config**: Configuration settings for the application.
 - **socialnetwork**: Main application directory.
